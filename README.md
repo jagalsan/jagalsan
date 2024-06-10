@@ -21,6 +21,9 @@
 
 - ⚡ Fun fact **I have tried to create 2 SASS and failed both of them but I keep on creating.**
 
+[![jagalsan's GitHub | Languages Over Time](https://stats.quine.sh/jagalsan/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=jagalsan)
+[![jagalsan's GitHub | Stats](https://stats.quine.sh/jagalsan/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=jagalsan)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jagalerasanchez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jagalerasanchez" height="30" width="40" /></a>
