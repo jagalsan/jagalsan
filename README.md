@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose Alberto Galera Sánchez</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-- 🔭 I’m currently working on [Plexus](https://www.plexus.es/)
+- 🔭 I’m Frontend Lead on [Plexus](https://www.plexus.es/)
 
 - 🌱 I’m currently learning **NextJs, React, English and Entrepreneurship**
 
