@@ -13,9 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jose-alberto-galera-s%C3%A1nchez/](https://www.linkedin.com/in/jose-alberto-galera-s%C3%A1nchez/)
 
-- ⚡ Fun fact **I have tried to create 2 SASS and failed both of them but I keep on creating.**
-
-[![jagalsan's GitHub | Languages Over Time](https://stats.quine.sh/jagalsan/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=jagalsan)
+- ⚡ Fun fact **I have tried to create 4 SASS and failed both of them but I keep on creating.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
